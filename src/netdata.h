@@ -20,7 +20,7 @@ WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 */
 
 #include <netinet/in.h>
-
+#include <heplog.h>
 
 typedef enum {
   SEND_UDP_REQUEST = 0,
